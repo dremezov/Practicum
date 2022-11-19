@@ -1,11 +1,8 @@
-1. real_estate - анализ архива объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет (данные сервиса Яндекс.Недвижимость).
-2. computer_games - анализ исторических данных из открытых источников о продажах компьютерных игр.
-3. procratinate_pro_marketing_analysis - маркетинговый анализ рекламной кампании развлекательного приложения Procrastinate Pro+ (Retention, LTV, CAC, ROI). 
-4. internet_shop_ab_tests - расчет приоритетности гипотез, а также проверка гипотез о равенстве конверсий и средних чеков в интернет-магазине (анализ A/B теста).
-5. product_shop_ab_tests - анализ конверсионной воронки в интеренет-магазине и проверка гипотез о равенстве долей покупателей в двух группах (анализ A/B теста).
-6. moscow_catering_analysis - анализ рынка заведений общественного питания в Москве.
-
-| **Название проекта**| **Описание** | **Инструменты** |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
+| **Название проекта**| **Описание** | **Инструменты и навыки** |
+|:--------------:|:-----:|:-----------:|
+| <a href="https://github.com/dremezov/Practicum/tree/main/real_estate">real_estate<a> |  Анализ архива объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет (данные сервиса Яндекс.Недвижимость). | Python, Pandas, Matplotlib, Предобработка данных, Исследовательский анализ данных |
+| <a href="https://github.com/dremezov/Practicum/tree/main/computer_games">computer_games<a> |  Анализ исторических данных из открытых источников о продажах компьютерных игр. | Python, Pandas, NumPy, Matplotlib, Предобработка данных, Статистический анализ данных |
+| <a href="https://github.com/dremezov/Practicum/tree/main/procratinate_pro_marketing_analysis">procratinate_pro_marketing_analysis<a> |  Маркетинговый анализ рекламной кампании развлекательного приложения Procrastinate Pro+ (Retention, LTV, CAC, ROI). | Python, Pandas, Matplotlib, Когортный анализ, Юнит-экономика, Продуктовые метрики, Seaborn |
+| <a href="https://github.com/dremezov/Practicum/tree/main/internet_shop_ab_tests">internet_shop_ab_tests<a> | Расчет приоритетности гипотез, а также проверка гипотез о равенстве конверсий и средних чеков в интернет-магазине (анализ A/B теста). | Python, Pandas, Matplotlib, SciPy, A/B-тестирование, Проверка статистических гипотез |
+| <a href="https://github.com/dremezov/Practicum/tree/main/product_shop_ab_tests">product_shop_ab_tests<a> | Анализ конверсионной воронки в интеренет-магазине и проверка гипотез о равенстве долей покупателей в двух группах (анализ A/B теста) | A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, Событийная аналитика, Продуктовые метрики, Plotly, Проверка статистических гипотез |
+| <a href="https://github.com/dremezov/Practicum/tree/main/moscow_catering_analysis">product_shop_ab_tests<a> | Анализ рынка заведений общественного питания в Москве, а также исследование возможностей открытия новой кофейни. | Python, Pandas, Seaborn, Plotly, Визуализация данных |
